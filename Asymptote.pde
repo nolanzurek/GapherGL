@@ -1,0 +1,3 @@
+class Asymptote extends Annotation {
+  
+}

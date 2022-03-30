@@ -1,0 +1,3 @@
+class Integral extends Annotation {
+  
+}
